@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shadowcoffee
+- 👋 Hi, I’m Qwirdle
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning more python
 - 💞️ I’m looking to collaborate on nothing much right now :)
